@@ -65,28 +65,16 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
  | Title and Source                                             | Link                               				           |
  |------------------------------------------------------------  | -------------------------------------------------------------|
- | Introduction to Machine Learning with scikit-learn 			| [dataschool](https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn)|
- | Introduction to Machine Learning								| [sebastianraschka](https://sebastianraschka.com/blog/2021/ml-course.html)
- | Open Machine Learning Course 								| [mlcourse.ai](https://mlcourse.ai/)						   |
  | Machine Learning (CS229) **Stanford**						| [WebSite](http://cs229.stanford.edu/syllabus-spring2020.html) [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|
  | Introduction to Machine Learning **MIT** 					| [WebSite](https://tinyurl.com/ybl6udcr)					   |
  | Machine Learning Systems Design 2021 (CS329S) **Stanford**   | [WebSite](https://stanford-cs329s.github.io/syllabus.html)   |
- | Applied Machine Learning 2020 (CS5787) **Cornell Tech**      | [YouTube](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
  | Machine Learning for Healthcare **MIT** 						| [WebSite](https://tinyurl.com/yxgeesdf)					   |
  | Machine Learning for Trading **Georgia Tech**				| [WebSite](https://lucylabs.gatech.edu/ml4t/)				   |	
- | Introduction to Machine Learning for Coders					| [fast.ai](https://course18.fast.ai/ml.html)
- | Machine Learning Crash Course								| [Google AI](https://developers.google.com/machine-learning/crash-course)|
- | Machine Learning with Python 								| [freecodecamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)|
- | Deep Reinforcement Learning:CS285 **UC Berkeley**			| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)|
  | Probabilistic Machine Learning **University of Tübingen**    | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)|
  | Machine Learning with Graphs(CS224W) **Stanford** 			| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)|
  | Machine Learning in Production **CMU**						| [WebSite](https://ckaestne.github.io/seai/)|
- | Machine Learning & Deep Learning Fundamentals                | [deeplizard](https://deeplizard.com/learn/video/gZmobeGL0Yg)|
  | Interpretability and Explainability in Machine Learning      | [WebSite](https://interpretable-ml-class.github.io/)|
  | Practical Machine Learning 2021 **Stanford**					| [WebSite](https://c.d2l.ai/stanford-cs329p/index.html#)|
- | Machine Learning **VU University** 							| [WebSite](https://mlvu.github.io/)|
- | Machine Learning for Cyber Security **Purdue University**    | [YouTube](https://www.youtube.com/playlist?list=PL74sw1ohGx7GHqDHCkXZeqMQBVUTMrVLE)|
- | Audio Signal Processing for Machine Learning 				| [YouTube](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)|
  | Machine learning & causal inference **Stanford**				| [YouTube](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)|
  	
 
@@ -96,24 +84,13 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Title and Source                                             | Link                               				           |
  |------------------------------------------------------------  | -------------------------------------------------------------|
  | Introduction to Deep Learning(6.S191) **MIT**		 		| [YouTube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)					   |
- | Introduction to Deep Learning								| [sebastianraschka](https://sebastianraschka.com/blog/2021/dl-course.html)
  | Deep Learning **NYU**					 					| [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)  [2021](https://atcold.github.io/NYU-DLSP21/) |
- | Deep Learning (CS182) **UC Berkeley**						| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
  | Deep Learning Lecture Series	**DeepMind x UCL**			    | [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)|
- | Deep Learning (CS230) **Stanford**						    | [WebSite](https://cs230.stanford.edu/lecture/)               | 
  | CNN for Visual Recognition(CS231n) **Stanford**    		    | [WebSite-2020](https://cs231n.github.io/)  [YouTube-2017](https://tinyurl.com/y2gghbvs)|
- | Full Stack Deep Learning   									| [WebSite](https://course.fullstackdeeplearning.com/)[2021](https://fullstackdeeplearning.com/spring2021/)|
- | Practical Deep Learning for Coders, v3                       | [fast.ai](https://course19.fast.ai/index.html)			   |
- | Deep Learning Crash Course 2021 d2l.ai 						| [YouTube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)|
- | Deep Learning for Computer Vision **Michigan**				| [WebSite](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)|
- | Neural Networks from Scratch in Python by Sentdex			| [YouTube](https://www.youtube.com/playlist?app=desktop&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)|
- | Keras - Python Deep Learning Neural Network API				| [deeplizard](https://deeplizard.com/learn/video/RznKVRTFkBY)|
+ | [ x ] Deep Learning Crash Course 2021 d2l.ai						| [YouTube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)|
  | Reproducible Deep Learning									| [sscardapane.it](https://www.sscardapane.it/teaching/reproducibledl/)|
  | PyTorch Fundamentals 										| [microsoft](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)|
  | Geometric Deep Learing (GDL100)								| [geometricdeeplearning](https://geometricdeeplearning.com/lectures/)|
- | Deep learning Neuromatch Academy 							| [neuromatch](https://deeplearning.neuromatch.io/tutorials/intro.html)
- | Deep Learning for Molecules and Materials					| [WebSite](https://whitead.github.io/dmol-book/intro.html)|
- | Deep Learning course for Vision								| [arthurdouillard.com](https://arthurdouillard.com/deepcourse/)|
  | Deep Multi-Task and Meta Learning (CS330) **Stanford**  		| [WebSite](https://cs330.stanford.edu/) [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)|
  | Deep Learning Interviews book 								| [WebSite](https://github.com/BoltzmannEntropy/interviews.ai)
 
