@@ -55,14 +55,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
  | Title and Source                                             | Link                               				          |
  |------------------------------------------------------------  | -------------------------------------------------------------
- | Statistics in Machine Learning (Krish Naik)                  | [YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
  | Computational Linear Algebra for Coders						| [fast.ai](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
  | Linear Algebra  **MIT**										| [WebSite](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/course/)|
- | Statistics by zstatistics									| [WebSite](https://www.zstatistics.com/videos)|
- | Essence of linear algebra by 3Blue1Brown						| [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|
- | SEEING THEORY (Visual Probability)	**brown**    		    | [WebSite](https://seeing-theory.brown.edu/basic-probability/index.html)|
  | Matrix Methods in Data Analysis,and Machine Learning **MIT** | [WebSite](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
- | Math for Machine Learning 									| [YouTube](https://www.youtube.com/playlist?app=desktop&list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)
 
 
 
